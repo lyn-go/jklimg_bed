@@ -1,0 +1,8 @@
+# 调试时添加的图片
+#test_*.webp
+test_*
+
+# krita 的临时文件
+*.kra~
+*.webp~
+
